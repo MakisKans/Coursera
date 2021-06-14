@@ -1,2 +1,2 @@
 # Coursera
-github course (coursera0
+github course (coursera)
